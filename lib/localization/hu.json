@@ -1,0 +1,19 @@
+{
+  "title": "Bevásárló lista app",
+  "saveAndQuit": "Mentés és Kilépés",
+  "yes": "Igen",
+  "no": "Nem",
+  "cancel": "Megszakítás",
+  "want": "KELL",
+  "bought": "MEGVETT",
+  "inputBar": "Mit kell venni a közeljövőben?",
+  "deleteBought": "Megvett dolgok törlése",
+  "reqPermissions": "Engedélyek kérése",
+  "contactList": "Kontakt lista",
+  "gallery": "Galéria",
+  "camera": "Kamera",
+  "setProfilePic": "Profil kép beállítása",
+  "delProfilePic": "Kép törlése",
+  "sureDelete": "Biztosan törölni akarja?",
+  "msgSureDel": "Az összes megvett dolog törlésre kerül."
+}

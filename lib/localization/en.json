@@ -1,0 +1,19 @@
+{
+  "title": "Shopping List App",
+  "saveAndQuit": "Save and Quit",
+  "yes": "Yes",
+  "no": "No",
+  "cancel": "Cancel",
+  "want": "WANT",
+  "bought": "BOUGHT",
+  "inputBar": "What do you want to buy in the future?",
+  "deleteBought": "Delete bought items",
+  "reqPermissions": "Request permissions",
+  "contactList": "Contact List",
+  "gallery": "Gallery",
+  "camera": "Camera",
+  "setProfilePic": "Setup profile pic",
+  "delProfilePic": "Delete profile pic",
+  "sureDelete": "Are you sure you want to delete?",
+  "msgSureDel": "All bought items will be deleted."
+}
